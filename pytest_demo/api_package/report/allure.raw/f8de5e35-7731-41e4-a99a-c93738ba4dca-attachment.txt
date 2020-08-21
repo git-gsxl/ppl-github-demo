@@ -1,0 +1,4 @@
+请求方式：post, 请求url:http://47.97.194.84:8000/api/add_project/
+请求头参数为：{'Content-Type': 'application/json', 'X-Requested-With': 'XMLHttpRequest'}
+请求类型为：json ,body参数为：{"project_name": 1588348575.9841526, "responsible_name": "\u5e7f\u6df1\u5c0f\u9f99", "test_user": "K\u3001J\u3001L", "dev_user": "D", "publish_app": "hrun_web", "simple_desc": "hrun_web", "other_desc": "hrun_web"}
+响应信息为： /api/project_list/1/

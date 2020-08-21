@@ -1,0 +1,4 @@
+请求方式：post, 请求url:http://47.97.194.84:8000/api/project_list/1/
+请求头参数为：{'Content-Type': 'application/json', 'X-Requested-With': 'XMLHttpRequest'}
+请求类型为：json ,body参数为：{"id": 67, "mode": "del"}
+响应信息为： ok

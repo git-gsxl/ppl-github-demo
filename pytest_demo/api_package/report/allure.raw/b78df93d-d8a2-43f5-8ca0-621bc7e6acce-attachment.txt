@@ -1,0 +1,4 @@
+请求方式：post, 请求url:http://47.97.194.84:8000/api/register/
+请求头参数为：{'Content-Type': 'application/json', 'X-Requested-With': 'XMLHttpRequest'}
+请求类型为：json ,body参数为：{"account": "gsxl11", "email": "gsxl11@qq.com", "password": "gsxl11", "repassword": "gsxl11"}
+响应信息为： 恭喜您，账号已成功注册
